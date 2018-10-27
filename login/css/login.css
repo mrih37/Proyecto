@@ -1,0 +1,23 @@
+#panel-inicio-sesion{
+    margin-top: 50px;
+    height: 400px;
+    width: 400px;
+}
+
+#titulo-inicio-sesion{
+    background-color: rgb(5, 99, 5);
+    color: white;
+}
+
+#frm-inicio-sesion{
+    margin-top: 50px;    
+}
+
+#contrasena-inicio-sesion{
+    margin-top: 40px;    
+}
+
+#btn-inicio-sesion{
+    margin-top: 40px;
+    margin-left: 110px;    
+}
